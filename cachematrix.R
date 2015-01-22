@@ -1,4 +1,4 @@
-## An R function to cache potentially time-consuming computations for the inverse of a matrix
+## An R function to cache potentially time-consuming computations for the inverse of a matrix (Assignment)
 
 ## Return a list of four elements, set the matrix, get the matrix, set the inverse matrix, and 
 ## get the inverse matrix. If a new matrix is the input, the inverse will be NULL
